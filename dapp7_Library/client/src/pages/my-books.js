@@ -93,7 +93,7 @@ export default function myBooks(){
   if (loading) {
     return (
       <h1 className="text-4xl text-center">
-        Please wait for a minute <br /> I am doing my lunch........
+        Please wait for a minute <br /> I am having my lunch........
       </h1>
     );
   }
